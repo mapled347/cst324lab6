@@ -1,0 +1,15 @@
+F:\OIT\2019-2020\FALL2019\CST324DBD\MongoMovieDatabase_Original\MongoMovieDatabase\bin\Debug\MongoMovieDatabase.exe.config
+F:\OIT\2019-2020\FALL2019\CST324DBD\MongoMovieDatabase_Original\MongoMovieDatabase\bin\Debug\MongoMovieDatabase.exe
+F:\OIT\2019-2020\FALL2019\CST324DBD\MongoMovieDatabase_Original\MongoMovieDatabase\bin\Debug\MongoMovieDatabase.pdb
+F:\OIT\2019-2020\FALL2019\CST324DBD\MongoMovieDatabase_Original\MongoMovieDatabase\bin\Debug\DnsClient.dll
+F:\OIT\2019-2020\FALL2019\CST324DBD\MongoMovieDatabase_Original\MongoMovieDatabase\bin\Debug\MongoDB.Bson.dll
+F:\OIT\2019-2020\FALL2019\CST324DBD\MongoMovieDatabase_Original\MongoMovieDatabase\bin\Debug\MongoDB.Driver.Core.dll
+F:\OIT\2019-2020\FALL2019\CST324DBD\MongoMovieDatabase_Original\MongoMovieDatabase\bin\Debug\MongoDB.Driver.dll
+F:\OIT\2019-2020\FALL2019\CST324DBD\MongoMovieDatabase_Original\MongoMovieDatabase\bin\Debug\System.Buffers.dll
+F:\OIT\2019-2020\FALL2019\CST324DBD\MongoMovieDatabase_Original\MongoMovieDatabase\bin\Debug\DnsClient.xml
+F:\OIT\2019-2020\FALL2019\CST324DBD\MongoMovieDatabase_Original\MongoMovieDatabase\bin\Debug\MongoDB.Bson.xml
+F:\OIT\2019-2020\FALL2019\CST324DBD\MongoMovieDatabase_Original\MongoMovieDatabase\bin\Debug\MongoDB.Driver.xml
+F:\OIT\2019-2020\FALL2019\CST324DBD\MongoMovieDatabase_Original\MongoMovieDatabase\bin\Debug\MongoDB.Driver.Core.xml
+F:\OIT\2019-2020\FALL2019\CST324DBD\MongoMovieDatabase_Original\MongoMovieDatabase\obj\Debug\MongoMovieDatabase.csproj.CopyComplete
+F:\OIT\2019-2020\FALL2019\CST324DBD\MongoMovieDatabase_Original\MongoMovieDatabase\obj\Debug\MongoMovieDatabase.exe
+F:\OIT\2019-2020\FALL2019\CST324DBD\MongoMovieDatabase_Original\MongoMovieDatabase\obj\Debug\MongoMovieDatabase.pdb
